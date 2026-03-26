@@ -1,0 +1,4 @@
+interface:
+  display_name: "Text Table"
+  short_description: "Render compact terminal-style text tables"
+  default_prompt: "Use $render-text-table to present this data as a compact text table."
