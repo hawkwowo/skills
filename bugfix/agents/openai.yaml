@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bugfix"
+  short_description: "Standard workflow for bugfix tasks"
+  default_prompt: "Use $bugfix to investigate a reproducible bug, find the root cause, and deliver the fix with validation."
